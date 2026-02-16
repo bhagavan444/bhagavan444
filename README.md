@@ -1,85 +1,97 @@
-# 👋 Hi there! I'm Bhagavan Gopalajosyula
+# 👋 Hi, I'm Bhagavan Gopalajosyula
 
-[🌐 Portfolio](https://gsssbhagavanportfolio.netlify.app) • 
-[💼 LinkedIn](https://www.linkedin.com/in/gopalajosyula-siva-satya-sai-bhagavan-1624a027b/) • 
+[🌐 Portfolio](https://gsssbhagavanportfolio.netlify.app) •  
+[💼 LinkedIn](https://www.linkedin.com/in/gopalajosyula-siva-satya-sai-bhagavan-1624a027b/) •  
 [📧 Email](mailto:g.sivasatyasaibhagavan@gmail.com)
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm an AI-Integrated Full Stack Engineer passionate about building scalable, real-world software systems that combine intelligent machine learning models with robust backend architecture.
+AI-Integrated Software Engineer focused on building scalable, production-grade systems that combine strong computer science fundamentals with applied machine learning.
 
-Currently pursuing B.Tech in Artificial Intelligence & Data Science, I focus on designing production-ready applications using MERN, Python, and ML frameworks. My work emphasizes clean architecture, modular API design, and real-world deployment practices.
+Currently pursuing B.Tech in Artificial Intelligence & Data Science, I design and implement end-to-end systems across frontend, backend, and ML layers. My work emphasizes clean architecture, modular service design, API abstraction, structured validation pipelines, and deployment-ready engineering practices.
 
-I enjoy solving engineering problems that require both algorithmic thinking and system-level design.
-
----
-
-## 🚀 What I'm Currently Working On
-
-- 🤖 Building AI-powered conversational and predictive systems  
-- ⚙️ Designing modular REST API architectures with secure authentication  
-- 📊 Strengthening Data Structures, Algorithms & System Design fundamentals  
-- 🧠 Exploring advanced ML deployment pipelines and inference optimization  
+I’m particularly interested in building systems that balance algorithmic efficiency, maintainability, and real-world scalability.
 
 ---
 
-## 🔥 Flagship Projects
+## 🧠 Core Engineering Focus
 
-### 🤖 Chatbot Intelligence
-End-to-end AI chatbot integrating LLM APIs (Gemini/OpenAI) with scalable backend services.  
-Designed async request handling and structured inference workflows for real-time conversational interaction.
-
-### 📄 ATS Resume Builder Platform
-Full-stack MERN application featuring Google & GitHub OAuth authentication, dynamic resume generation, PDF parsing, and keyword-based ATS scoring simulation.
-
-### 🫀 Heart Disease Prediction System
-Machine learning-based risk assessment platform deploying trained models via RESTful Flask inference API for real-time prediction.
-
-### 📰 Fake News Detection
-NLP-driven classification system using TF-IDF feature engineering and supervised ML models to detect misinformation.
+- Designing backend services with clear separation of concerns  
+- Structuring ML pipelines from preprocessing → training → evaluation → inference  
+- Building RESTful APIs with authentication, validation, and error handling  
+- Applying algorithmic thinking to optimize performance and system flow  
+- Writing modular, testable, and maintainable code  
 
 ---
 
-## 🧠 Technical Expertise
+## 🚀 Selected Projects
 
-### 💻 Programming
+### 🤖 AI Chatbot Platform  
+Designed a conversational system integrating LLM APIs with modular backend services and asynchronous request handling.  
+Implemented structured inference workflows, service abstraction layers, and clean separation between UI and backend logic.  
+Focused on scalability, error handling, and latency-aware request management.
+
+### 📄 ATS Resume Builder  
+Architected a full-stack MERN application with secure OAuth authentication and dynamic resume generation workflows.  
+Implemented keyword-based scoring logic to simulate ATS screening and structured database schema for user data persistence.  
+Emphasized modular API routing and authentication middleware design.
+
+### 🫀 Heart Disease Prediction  
+Developed a supervised ML pipeline with feature engineering, validation workflows, and model evaluation.  
+Deployed the trained model through a RESTful Flask inference API enabling real-time predictions.  
+Focused on clean separation between model logic and API serving layer.
+
+### 📰 Fake News Detection  
+Built an NLP classification system using TF-IDF vectorization and supervised learning models.  
+Implemented structured preprocessing pipelines and evaluation metrics for performance validation.
+
+---
+
+## 🧩 System Design & Problem-Solving Approach
+
+When building systems, I focus on:
+
+1. Defining clear input-output boundaries  
+2. Structuring components with minimal coupling  
+3. Evaluating time and space complexity where applicable  
+4. Designing APIs that are predictable and extensible  
+5. Ensuring validation and error handling are first-class concerns  
+
+---
+
+## 🧠 Technical Skills
+
+### Programming
 `Python` `JavaScript` `Java` `C`
 
-### 🖥 Frontend Engineering
+### Backend & Systems
+`Node.js` `Express.js` `Flask`  
+- RESTful API architecture  
+- OAuth & authentication flows  
+- Middleware design  
+- Asynchronous service integration  
+- Separation of concerns  
+
+### Frontend
 `React.js` `Tailwind CSS` `HTML5` `CSS3` `Vite`
 
-### ⚙ Backend & APIs
-`Node.js` `Express.js` `Flask`  
-- RESTful architecture  
-- OAuth authentication flows  
-- Asynchronous API integration  
+### Databases
+`MongoDB` `SQL`  
+- Schema design  
+- Data validation  
+- Structured query handling  
 
-### 🗄 Databases
-`MongoDB` `SQL`
-
-### 🤖 Machine Learning
-`Scikit-learn` `TensorFlow` `Keras` `CNNs` `NLP`  
+### Machine Learning
+`Scikit-learn` `TensorFlow` `Keras`  
 - Feature engineering  
-- Model evaluation  
+- Model evaluation & metrics  
 - Inference deployment  
+- Data preprocessing workflows  
 
-### 🛠 Tools
+### Tools
 `Git` `GitHub` `Postman` `VS Code`
-
----
-
-## 🏗 Engineering Approach
-
-I focus on:
-
-- Clean, modular architecture  
-- Separation of concerns (UI, API, ML logic)  
-- Real-world deployment readiness  
-- Error handling & validation workflows  
-- Performance-conscious backend design  
-- Continuous improvement in core CS fundamentals  
 
 ---
 
@@ -89,10 +101,10 @@ I focus on:
 
 ---
 
-## 🎯 Career Objective
+## 🎯 Career Direction
 
-Seeking opportunities as a Software / AI Engineer where I can contribute to building scalable systems, apply machine learning in production environments, and continuously strengthen my system design and algorithmic skills.
+Aspiring Software Engineer aiming to contribute to teams building scalable distributed systems, intelligent applications, and performance-sensitive services — while continuously strengthening algorithmic reasoning and system design expertise.
 
 ---
 
-> Building intelligent systems that merge AI with scalable software engineering.
+> Engineering systems with clarity, correctness, and scalability in mind.
